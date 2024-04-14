@@ -3,7 +3,7 @@
 
 This Django project serves as a simple example showcasing key concepts in backend engineering, including server-side logic, database management and API development.
 
-## Table of Contents
+## Table of Contents 
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
